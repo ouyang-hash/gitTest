@@ -1,2 +1,3 @@
 jdbc.user=root
 jdbc.password=root
+jdbc.url=jdbc://local:3306/test
